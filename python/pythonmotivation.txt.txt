@@ -1,0 +1,8 @@
+you need to work on python as it one of the most important language in dbda.
+
+Create a stack for the python
+
+Update here daily what you have studied and what code you have written 
+
+Target :- must be able to create a project 
+
